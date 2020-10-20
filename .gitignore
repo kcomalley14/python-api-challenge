@@ -1,4 +1,3 @@
-config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# user defined section
+.DS_Store
+config.py
+secrets.py
+.vscode
+.ipynb_checkpoints
